@@ -1,0 +1,2 @@
+[docker]
+10.2.8.242 ansible_ssh_user=root ansible_ssh_pass=

@@ -1,0 +1,5 @@
+---
+- hosts: docker
+  user: root
+  roles:
+    - setup-docker
